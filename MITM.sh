@@ -91,4 +91,5 @@ echo "Waiting 3 seconds before running Python script..."
 sleep 3
 
 # Run your Python script here
+
 python mailer.py
